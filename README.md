@@ -21,4 +21,3 @@ uses a heavily edited free-to-use water shader not originally made by me.
 
 needs textmeshpro.
 3d models and code are free to use, music is free to use as long as it isn't monitized.
-anything made by me doesn't need credit :)
