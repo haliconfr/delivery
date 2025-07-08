@@ -13,7 +13,7 @@ features:
 - models saved in .blend form
 - smooth camera transitions
 - plane flying
-- already set up to use my unity-autoinstaller if you want
+- already set up to use my [unity-autoupdater](https://github.com/haliconfr/unity-autoupdater) if you want
 
 music was composed by Scruffy and Rud.
 uses a world rolling shader to mimic the one used in Animal Crossing, which was made by NotSlot.
